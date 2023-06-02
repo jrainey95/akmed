@@ -1,0 +1,28 @@
+body {
+  font-size: 120%;
+  font-family: 'Courier New', Courier, monospace;
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  border: 1px salmon;
+  padding: 20px;
+  box-sizing: border-box;
+  color: aqua;
+}
+
+button {
+  display: inline-block;
+  margin: 2px;
+  cursor: pointer;
+  font-size: 75%;
+  background-color: blueviolet;
+  border-radius: 2px;
+  padding: 2px 10px;
+  color: white;
+  border: 0;
+  transition: background-color 0.1s;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
