@@ -1,5 +1,8 @@
 # akmed
 
+# Description
+Created a coding quiz using all the skills we have learned from css, html, to javascript
+
 # links
 https://jrainey95.github.io/akmed/
 
